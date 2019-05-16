@@ -1,0 +1,8 @@
+<Last Name>,<First Name>,<DD>,<MM>,<YYYY>,<Town>,<Country>,<Nationality>,<email>,<interest 1>;<interest 2>;...;<interest n>
+
+So they are split my commas and semi-colons.
+
+First nine are the attributes about the person and then after that they are intrests until the next line.
+
+Identify the commas and the semi colons then the next lines.
+

@@ -1,0 +1,7 @@
+File of profiles --> FileReader
+
+FileReader --> Reads word by word and saves as variables
+
+Variables --> Create a profile
+
+Profile --> Inserted in to the tree 
